@@ -1,0 +1,77 @@
+body {
+    background-color: #352D2F;
+    font-family: 'Abel', sans-serif;
+}
+
+.Home {
+    background-color: #352D2F;
+    font-family: 'Abel', sans-serif;
+    height: 20%;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    color: aliceblue;
+}
+
+.Services {
+    background-color: #605A5C;
+    height: 18%;
+    width: 100%;
+    margin: 0;
+    font-family: 'Abel', sans-serif;
+}
+
+.Our_Work {
+    background-color: #F63C3C;
+    height: 15%;
+    width: 100%;
+    margin: 0;
+    font-family: 'Abel', sans-serif;
+}
+
+.About_us {
+    background-color: #726D6E;
+    height: 10%;
+    width: 100%;
+    font-family: 'Abel', sans-serif;
+}
+
+.Blog {
+    background-color: #F63C3C;
+    height: 20%;
+    width: 100%;
+    font-family: 'Abel', sans-serif;
+}
+
+.Get_in_Touch {
+    background-color: #352D2F;
+    height: 15%;
+    width: 100;
+    font-family: 'Abel', sans-serif;
+}
+
+ul {
+    list-style: none;
+    margin-left: 35%;
+    margin-top: 0;
+}
+
+ul li {
+    float: left;
+    margin: 10px;
+    font-family: 'Abel', sans-serif;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    padding: 150px;
+    font-family: 'Abel', sans-serif;
+}
+
+.Logo {
+    float: left;
+    margin-top: 0;
+    padding-top: 0;
+}
